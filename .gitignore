@@ -2,3 +2,8 @@
 target
 # runtime files
 .vertx
+.classpath
+.project
+.settings/*
+*.swp
+*~
